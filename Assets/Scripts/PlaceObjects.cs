@@ -16,7 +16,8 @@ public class PlaceObjects : MonoBehaviour
     void Awake() 
     {
         raycastManager = GetComponent<ARRaycastManager>();
-        UnityEngine.InputSystem.EnhancedTouch.EnhancedTouchSupport.Enable();
+        EnhancedTouch.TouchSimulation.Enable();
+        EnhancedTouch.EnhancedTouchSupport.Enable();
         EnhancedTouch.Touch.onFingerDown += FingerDown;
     }
 
