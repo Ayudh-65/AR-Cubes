@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Interaction.Toolkit.Samples.ARStarterAssets", "Unity.XR.Interaction.Toolkit.Samples.ARStarterAssets.csproj", "{311FC6F1-0799-2D72-18A7-0A3D3BF84E84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{55B44FCB-FF2C-6659-9A35-A23C8381D433}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Interaction.Toolkit.Samples.ARStarterAssets.Editor", "Unity.XR.Interaction.Toolkit.Samples.ARStarterAssets.Editor.csproj", "{8DD1140D-F398-6CF4-A006-8626E0C492F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{55B44FCB-FF2C-6659-9A35-A23C8381D433}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Interaction.Toolkit.Samples.StarterAssets", "Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj", "{305885B0-6D78-3113-B64A-EE204B598677}"
 EndProject
@@ -19,14 +19,14 @@ Global
 		{311FC6F1-0799-2D72-18A7-0A3D3BF84E84}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{311FC6F1-0799-2D72-18A7-0A3D3BF84E84}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{311FC6F1-0799-2D72-18A7-0A3D3BF84E84}.Release|Any CPU.Build.0 = Release|Any CPU
-		{55B44FCB-FF2C-6659-9A35-A23C8381D433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{55B44FCB-FF2C-6659-9A35-A23C8381D433}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{55B44FCB-FF2C-6659-9A35-A23C8381D433}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{55B44FCB-FF2C-6659-9A35-A23C8381D433}.Release|Any CPU.Build.0 = Release|Any CPU
 		{8DD1140D-F398-6CF4-A006-8626E0C492F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{8DD1140D-F398-6CF4-A006-8626E0C492F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8DD1140D-F398-6CF4-A006-8626E0C492F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8DD1140D-F398-6CF4-A006-8626E0C492F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55B44FCB-FF2C-6659-9A35-A23C8381D433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55B44FCB-FF2C-6659-9A35-A23C8381D433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55B44FCB-FF2C-6659-9A35-A23C8381D433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55B44FCB-FF2C-6659-9A35-A23C8381D433}.Release|Any CPU.Build.0 = Release|Any CPU
 		{305885B0-6D78-3113-B64A-EE204B598677}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{305885B0-6D78-3113-B64A-EE204B598677}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{305885B0-6D78-3113-B64A-EE204B598677}.Release|Any CPU.ActiveCfg = Release|Any CPU
